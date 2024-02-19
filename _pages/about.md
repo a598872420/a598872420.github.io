@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Yu Xiong is an AI researcher in Fuxi AI Lab, NetEase Games. He received his Master's degree from the School of Computer Science and Technology at Nanjing University in 2018. His research interests include explainable AI, causal inference, game AI, reinforcement learning, and music emotion recognition. He has published dozens of papers in renowned conferences and journals in the fields of data mining, artificial intelligence and multimedia, including KDD23 (first author), ToG22(co-first author), CoG20(best paper, second author), and ICME17(first author). Additionally, his research was presented at the core conference of the well-known Game Developers Conference (GDC) in 2022. 
+Yu Xiong is an AI researcher in Fuxi AI Lab, NetEase Games. He received his Master's degree from the School of Computer Science and Technology at Nanjing University in 2018. His research interests include explainable AI, causal inference, game AI, reinforcement learning, and music emotion recognition. He has published dozens of papers in renowned conferences and journals in the fields of data mining, artificial intelligence and multimedia, including [KDD23 (first author)](https://dl.acm.org/doi/abs/10.1145/3580305.3599759), [ToG22(co-first author)](https://ieeexplore.ieee.org/document/9772248), [CoG20(best paper, second author)](https://ieeexplore.ieee.org/document/9231843), and [ICME17(first author)](https://ieeexplore.ieee.org/document/8019341). Additionally, his research was presented at the core conference of the well-known [Game Developers Conference (GDC)](https://www.gdcvault.com/play/1027707/XAI-Enhanced-Data-Driven-Player) in 2022. 
 
 ## Selected Publications
 ------
