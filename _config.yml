@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yu Xiong"
 title_separator          : "-"
 name                     : &name "Yu Xiong"
 description              : &description "personal description"
@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture2.png"
+  avatar           : "picture3.png"
   name             : "Yu Xiong"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher"
