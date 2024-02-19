@@ -14,7 +14,6 @@ Yu Xiong is an AI researcher in Fuxi AI Lab, NetEase Games. He received his Mast
 ## Selected Publications
 ------
 ### Explainable AI
-======
 **Yu Xiong**, Runze Wu, Shiwei Zhao, et al. A Data-Driven Decision Support Framework for Player Churn Analysis in Online Games[C]//Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023: 5303-5314. 
 **Yu Xiong**, Jianrong Tao, Shiwei Zhao, et al. Explainable AI for cheating detection and churn prediction in online games[J]. IEEE Transactions on Games, 2022.
 Jianrong Tao, **Yu Xiong**, Shiwei Zhao, et al. Xai-driven explainable multi-view game cheating detection[C]//2020 IEEE Conference on Games (CoG). IEEE, 2020: 144-151.
