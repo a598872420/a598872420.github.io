@@ -23,6 +23,8 @@ Dongjin Yu, Xingliang Wang, **Yu Xiong**, et al. MHANER: A Multi-source Heteroge
 
 
 ### Explainable RL
+**Yu Xiong**, Zhipeng Hu, Ye Huang, et al. XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques[J]. arXiv preprint arXiv:2402.12685, 2024.
+
 Zhipeng Hu, Haoyu Liu, **Yu Xiong**, et al. Promoting human-AI interaction makes a better adoption of deep reinforcement learning: a real-world application in game industry[J]. Multimedia Tools and Applications, 2024, 83(2): 6161-6182.
 
 Shanqi Liu, Yujing Hu, Runze Wu, Dong Xing, **Yu Xiong**, et al. Adaptive Value Decomposition with Greedy Marginal Contribution Computation for Cooperative Multi-Agent Reinforcement Learning[C]//Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems. 2023: 31-39.
