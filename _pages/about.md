@@ -29,7 +29,7 @@ Zhipeng Hu, Haoyu Liu, **Yu Xiong**, et al. Promoting human-AI interaction makes
 
 Shanqi Liu, Yujing Hu, Runze Wu, Dong Xing, **Yu Xiong**, et al. Adaptive Value Decomposition with Greedy Marginal Contribution Computation for Cooperative Multi-Agent Reinforcement Learning[C]//Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems. 2023: 31-39.
 
-### Music Emotion Recognition
+### Multi-Model Music Emotion Recognition
 **Yu Xiong**, Feng Su, Qianqian Wang. Automatic music mood classification by learning cross-media relevance between audio and lyrics[C]//2017 IEEE international conference on multimedia and expo (ICME). IEEE, 2017: 961-966.
 
 Qianqian Wang, **Yu Xiong**, Feng Su. Semantic Music Annotation by Label-Specific Conditional Random Fields[C]//2018 24th International Conference on Pattern Recognition (ICPR). IEEE, 2018: 2941-2946.
