@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Yu Xiong is an AI researcher in Fuxi AI Lab, NetEase Games. He received his Master's degree from the School of Computer Science and Technology at Nanjing University in 2018. His research interests include explainable AI, causal inference, game AI, reinforcement learning, and music emotion recognition. He has published dozens of papers in renowned conferences and journals in the fields of data mining, artificial intelligence and multimedia, including [KDD23 (first author)](https://dl.acm.org/doi/abs/10.1145/3580305.3599759), [ToG22(co-first author)](https://ieeexplore.ieee.org/document/9772248), [CoG20(best paper, second author)](https://ieeexplore.ieee.org/document/9231843), and [ICME17(first author)](https://ieeexplore.ieee.org/document/8019341). Additionally, his research was presented at the core conference of the well-known [Game Developers Conference (GDC)](https://www.gdcvault.com/play/1027707/XAI-Enhanced-Data-Driven-Player) in 2022. 
+Yu Xiong is an AI researcher in Fuxi AI Lab, NetEase Games. He received his Master's degree from the School of Computer Science and Technology at Nanjing University in 2018. His research interests include explainable AI, causal inference, game AI, reinforcement learning, and music emotion recognition. He has published dozens of papers in renowned conferences and journals in the fields of data mining, artificial intelligence and multimedia, including [KDD24 (first author)](https://arxiv.org/abs/2402.12685), [KDD23 (first author)](https://dl.acm.org/doi/abs/10.1145/3580305.3599759), [ToG22(co-first author)](https://ieeexplore.ieee.org/document/9772248), [CoG20(best paper, second author)](https://ieeexplore.ieee.org/document/9231843), and [ICME17(first author)](https://ieeexplore.ieee.org/document/8019341). Additionally, his research was presented at the core conference of the well-known [Game Developers Conference (GDC)](https://www.gdcvault.com/play/1027707/XAI-Enhanced-Data-Driven-Player) in 2022. 
 
 ## Selected Publications
 ------
@@ -23,7 +23,7 @@ Dongjin Yu, Xingliang Wang, **Yu Xiong**, et al. MHANER: A Multi-source Heteroge
 
 
 ### Explainable RL
-**Yu Xiong**, Zhipeng Hu, Ye Huang, et al. XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques[J]. arXiv preprint arXiv:2402.12685, 2024.
+**Yu Xiong**, Zhipeng Hu, Ye Huang, et al. XRL-Bench: A Benchmark for Evaluating and Comparing Explainable Reinforcement Learning Techniques[C]//Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024
 
 Zhipeng Hu, Haoyu Liu, **Yu Xiong**, et al. Promoting human-AI interaction makes a better adoption of deep reinforcement learning: a real-world application in game industry[J]. Multimedia Tools and Applications, 2024, 83(2): 6161-6182.
 
